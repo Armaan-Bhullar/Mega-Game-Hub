@@ -10,7 +10,7 @@ Whether you're looking to pass the time, learn how GUI applications are built, o
 
 This version of Mega Game Hub currently includes:
 
-- 🧠 **Tic-Tac-Toe** – Classic 2-player strategy game
+- 🧠 **Perfect Guess** – Guess a number from 1 to 100 chosen randomly by the computer. Might help you understand binary search.
 - 🐍 **Snake Water Gun** – A luck based battle against the computer
 
 
